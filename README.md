@@ -16,9 +16,9 @@
 	- Name
 	- Rank
 	- Age
-- The list should support filter by
+- The list should support filter by (Optional, but have bonus points)
 	- Type
-- The list should support search by Name
+- The list should support search by Name (Optional, but have bonus points)
 - Screen should retain the filter & search criteria on screen refresh
 - Cricketer Name should be a link which should open the Cricketer Details screen
 
