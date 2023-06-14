@@ -36,7 +36,7 @@
 
 ## How to get the list of players?
 
-The list of Cricketers can be accessed from files `get-players.js` or `get-players.ts`. These files export a method which resolves a promise and returns the list of players.
+The list of Cricketers can be accessed from files [get-players.ts](https://github.com/nirmata/front-end-assigments/blob/main/get-players.ts) or [get-players.js](https://github.com/nirmata/front-end-assigments/blob/main/get-players.js). These files export a method which resolves a promise and returns the list of players.
 
 ## What tech stack to be used?
 
