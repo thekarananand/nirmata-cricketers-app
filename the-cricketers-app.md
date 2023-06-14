@@ -51,6 +51,10 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 - Typescript
 - Unit tests
 
+## How to submit the code?
+
+- Share the github url of the implementation in the email, as mentioned in the Job Description
+
 ## What is assessed?
 
 - Complete implementation of the requirements, ideally 100%
@@ -58,5 +62,6 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 - Components/hooks structure
 - Cleanliness of the code
 - Appearance & aesthetics
+- The commit messages: We assess these seriously as they describes your thought process & implementation progress
 
 **Use your own imagination to design the screens as you would like to!**
