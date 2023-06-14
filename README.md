@@ -51,10 +51,6 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 - Typescript
 - Unit tests
 
-## How to submit the code?
-
-- Share the github url of the implementation in the email, as mentioned in the Job Description
-
 ## What is assessed?
 
 - Complete implementation of the requirements, ideally 100%
@@ -62,6 +58,15 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 - Components/hooks structure
 - Cleanliness of the code
 - Appearance & aesthetics
-- The commit messages: We assess these seriously as they describes your thought process & implementation progress
+- The commit messages: We believe in reading git commit messages first before reviewing the code. This helps us understand how the code got matured and your thought process behind it.
+
+## Remember
+
+- The exercise is expected to be a Web Application
+- The exercise needs to be done on ReactJS stack
+- The web application must run without any errors
+- Provide clear instructions to run the web application
+- There are no timelines defined to complete the exercise. But you must note how much time you spent on it to complete it and mention that time when you submit it.
+- Again, we believe in reading git commit messages first before reviewing the code. This helps us understand how the code got matured and your thought process behind it.
 
 **Use your own imagination to design the screens as you would like to!**
