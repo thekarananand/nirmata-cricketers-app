@@ -66,7 +66,7 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 - The exercise needs to be done on ReactJS stack
 - The web application must run without any errors
 - Provide clear instructions to run the web application
-- There are no timelines defined to complete the exercise. But you must note how much time you spent on it to complete it and mention that time when you submit it.
+- There are no time limits defined to complete the exercise. But you must note how much time you spent on it to complete it and mention that time when you submit it. But, we expect to receive the solution within 4 days after you receive the assignment.
 - Again, we believe in reading git commit messages first before reviewing the code. This helps us understand how the code got matured and your thought process behind it.
 
 **Use your own imagination to design the screens as you would like to!**
