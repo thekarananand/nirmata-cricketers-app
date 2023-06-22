@@ -33,12 +33,13 @@
 	- Date of Birth
 	- Age
 - The details screen should have a `Back to Cricketers` button/link
-- Optional, but have bonus points: Display similar players matching the `Type` of the player. Like, if a Batsman details are displayed then display other Batsman
-- Maximum 5 similar players to be displayed
-- Similar players details to display
-	- Name
- 	- Points
-  	- Rank
+- Optional, but have bonus points:
+	- Display similar players matching the `Type` of the player. Like, if a Batsman details are displayed then display other Batsman
+	- Maximum 5 similar players to be displayed
+	- Similar players details to display
+		- Name
+ 		- Points
+  		- Rank
 
 ## How to get the list of players?
 
