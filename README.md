@@ -70,7 +70,7 @@ This is a minimum tech stack. You are free to add other stacks, like Icons, Styl
 ## Submission timeline
 
 - There are no time limits defined to complete the exercise. But you must note how much time you spent on it to complete it and mention that time when you submit it.
-- We expect to receive the solution within 7 days after you receive the assignment.
+- We expect to receive the solution `within 7 days`, once you receive the assignment.
 
 ## Remember
 
