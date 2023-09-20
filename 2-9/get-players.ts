@@ -1,18 +1,7 @@
 import data from './players';
+import { TMayBe, TPlayer, TPlayerType } from './types';
 
-export type TMayBe<T> = T | null | undefined;
-
-export type TPlayer = {
-    id?: TMayBe<string>;
-    name?: TMayBe<string>;
-    description?: TMayBe<string>;
-    type?: TMayBe<"batsman" | "bowler" | "allRounder" | "wicketKeeper">;
-    points?: TMayBe<number>;
-    rank?: TMayBe<number>;
-    dob?: TMayBe<number>;
-};
-
-const getPlayers = (): Promise<TPlayer[]> => {
+const getPlayers = (args?: { type?: TMayBe<TPlayerType> }): Promise<TPlayer[]> => {
     return Promise.resolve<TPlayer[]>(
         (data as TPlayer[])
             .sort((a, b) => {
@@ -29,6 +18,7 @@ const getPlayers = (): Promise<TPlayer[]> => {
                 ...it,
                 rank: index + 1
             }))
+            .filter((it) => args?.type ? it.type === args?.type : true)
     );
 };
 

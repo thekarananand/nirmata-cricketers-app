@@ -1,6 +1,6 @@
 import data from './players';
 
-const getPlayers = () => {
+const getPlayers = (args) => {
     return Promise.resolve(
         data
             .sort((a, b) => {
@@ -17,6 +17,7 @@ const getPlayers = () => {
                 ...it,
                 rank: index + 1
             }))
+            .filter((it) => args?.type ? it.type === args?.type : true)
     );
 };
 
